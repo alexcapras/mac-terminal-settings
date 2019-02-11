@@ -58,10 +58,8 @@ Example: LSCOLORS="exfxcxdxbxegedabagacad"
 LSCOLORS Generator:
 https://geoff.greer.fm/lscolors/
 
-
 ANSI Codes:
 https://bluesock.org/~willkg/dev/ansi.html
-
 
 http://www.marinamele.com/2014/05/customize-colors-of-your-terminal-in-mac-os-x.html
 
